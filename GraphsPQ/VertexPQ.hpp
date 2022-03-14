@@ -1,6 +1,7 @@
 #ifndef _VERTEX_PQ_HPP_
 #define _VERTEX_PQ_HPP_
 
+#include <climits>
 #include <iostream>
 #include <map>
 #include "Vertex.hpp"
